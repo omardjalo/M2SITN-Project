@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 alternative approach one
+=======
+alternative approach define
+>>>>>>> 2066ddf2c745f743f7bd3b862ab9c6821ee40577
